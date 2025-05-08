@@ -1,4 +1,4 @@
-# 👋 Hi! I'm Dmitry
+# 👋 Hi! I'm Dmitry | G2D
 
 Welcome to my GitHub!  
 I'm a beginner learning how to code — and I’m sharing everything I try.
