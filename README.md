@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi! I'm Dmitry
 
-<!--
-**dmitriy-g2d/dmitriy-g2d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub!  
+I'm a beginner learning how to code — and I’m sharing everything I try.
 
-Here are some ideas to get you started:
+I run a YouTube channel called **Grok To Developer**.  
+I make voiceless videos where I:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Learn C++ from scratch  
+- Use AI tools like Grok and ChatGPT 
+- Solve beginner problems and build fun things  
+- Show real code, real bugs, and real progress
+
+If you're also learning or just curious — you're not alone!  
+Let’s grow together 💻🚀
+
+📺 YouTube: [@GrokToDev](https://www.youtube.com/@groktodev)
